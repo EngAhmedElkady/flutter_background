@@ -1,0 +1,1 @@
+enum Events { add, remove }
